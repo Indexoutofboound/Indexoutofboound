@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting project
 - 📫 How to reach me, Just drop a email on shyambasnet289@gmail.com
 
-- I belive that "Very less people know that they know very less" - Socrates
+- "Very less people know that they know very less" - Socrates
 
 <!---
 Indexoutofboound/Indexoutofboound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
