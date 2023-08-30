@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Indexoutofboound 
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning frontend developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, Just drop a message haha
+- 👀 I’m interested in learning how to learn
+- 🌱 I’m currently work on projects as backend developer
+- 💞️ I’m looking to collaborate on exciting project
+- 📫 How to reach me, Just drop a email on shyambasnet289@gmail.com
+
+- I belive that "Very less people know that they know very less" - Socrates
 
 <!---
 Indexoutofboound/Indexoutofboound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
